@@ -1,0 +1,22 @@
+@charset "UTF-8";
+
+span.adc-headerFont {
+font-family: forte;
+font-size: 35px;}
+
+a.adc-headerFont {
+font-family: forte;
+font-size: 17px;}
+
+.imagelogo{
+	float:left;
+	max-width: 50px;
+	max-height: 50px;
+}
+
+.mdl-mini-footer{
+	background-color: #3f51b5;
+	font-family : forte;
+	font-size: 17px;
+	color: white;
+}
